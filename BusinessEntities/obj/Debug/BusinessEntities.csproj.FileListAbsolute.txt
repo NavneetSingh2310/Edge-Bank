@@ -1,0 +1,6 @@
+C:\Users\nsingh\source\repos\ApteanEdgeBank_Final\ApteanEdgeBank_Final\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\nsingh\source\repos\ApteanEdgeBank_Final\ApteanEdgeBank_Final\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\nsingh\source\repos\ApteanEdgeBank_Final\ApteanEdgeBank_Final\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\nsingh\source\repos\ApteanEdgeBank_Final\ApteanEdgeBank_Final\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\nsingh\source\repos\ApteanEdgeBank_Final\ApteanEdgeBank_Final\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\nsingh\source\repos\ApteanEdgeBank_Final\ApteanEdgeBank_Final\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
